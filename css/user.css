@@ -1,0 +1,21 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+#fav-btn {
+  font-size: large;
+  background: none;
+  border-style: none;
+  padding-right: 0;
+  padding-left: 0;
+}
